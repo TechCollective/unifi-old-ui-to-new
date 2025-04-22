@@ -4,7 +4,7 @@
 // @version      0.6
 // @description  Restore Alerts to the new UniFi UI
 // @author       Jeffrey Brite
-// @match        https://unifi.techcollective.com/*
+// @match        https://unifi.yourdomain.com/*
 // @grant        none
 // ==/UserScript==
 
